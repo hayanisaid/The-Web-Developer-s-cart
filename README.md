@@ -20,6 +20,20 @@ this part is only reserved to front End development,it include(Javascript,HTML,C
 
 -to make wour application more interactive you need to create events and to handle this events you have to undestand callback function[Callbacks in JavaScript]
 
+- The **Regulare expression**
+-is a method the will help you much to validate user inputs check this Article[Regulare expression](http://www.tutorialspark.com/javascript/JavaScript_Regular_Expression_Form_Validation.php)
+
+- alwayz Regulare expression [Regular Expressions Demystified: RegEx isn’t as hard as it looks](https://medium.freecodecamp.org/regular-expressions-demystified-regex-isnt-as-hard-as-it-looks-617b55cf787)
+
+**some anline tool to generate you regulare expression**
+
+ [regex](https://regex101.com/)
+ 
+ [cleancss](https://www.cleancss.com/)
+
+
+
+
 - Bulleted
 - List
 
