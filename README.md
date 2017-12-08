@@ -1,19 +1,24 @@
-## Welcome to GitHub Pages
+### Web Developer Pack 
 
-You can use the [editor on GitHub](https://github.com/hayanisaid/The-Web-Developer-s-source/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is an open source that collecte the most tools and courses In web development ,quetions interview,includes,Articles,Vidoes,extentions,tools,open source tweetes.here si to help the developer to easy find the resource
+everyone can contribute just open a pull request
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Front End pack
+this part is only reserved to front End development,it include(Javascript,HTML,CSS,CSS Framwork,UI,UX,...)
 
-### Markdown
+ 1-Articles
+ 
+ *Javascript*
+ 
+ -[Learning JavaScript – where should you start and what to do when you’re stuck](https://zellwk.com/blog/how-to-learn-javascript/?ck_subscriber_id=132657249)
+ 
+ -[What are variables and why use them in JavaScript](https://zellwk.com/blog/javascript-variables/?ck_subscriber_id=132657249) here you gona the basics of Javascript With Zell Liew
+ 
+ -The for loop is amazing tool in javascript when you learn the for loop you will make crazy stuff by this Article you will understand the for loop 100% [Understanding for loops](https://zellwk.com/blog/js-for-loops/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-evety programming language has function it make your code more organized and dynamic eate functions with this Article[JavaScript — What are Tag Functions?](https://codeburst.io/javascript-what-are-tag-functions-97682f29521b)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+-to make wour application more interactive you need to create events and to handle this events you have to undestand callback function[Callbacks in JavaScript]
 
 - Bulleted
 - List
