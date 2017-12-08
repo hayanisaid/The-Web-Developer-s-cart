@@ -6,9 +6,9 @@ everyone can contribute just open a pull request
 ## Front End pack
 this part is only reserved to front End development,it include(Javascript,HTML,CSS,CSS Framwork,UI,UX,...)
 
- 1-Articles
+ 1-**Articles**
  
- *Javascript*
+ **Javascript part**
  
  -[Learning JavaScript – where should you start and what to do when you’re stuck](https://zellwk.com/blog/how-to-learn-javascript/?ck_subscriber_id=132657249)
  
@@ -27,9 +27,9 @@ this part is only reserved to front End development,it include(Javascript,HTML,C
 
 **some anline tool to generate you regulare expression**
 
- [regex](https://regex101.com/)
+ -[regex](https://regex101.com/)
  
- [cleancss](https://www.cleancss.com/)
+ -[cleancss](https://www.cleancss.com/)
 
 
 
